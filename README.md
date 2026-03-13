@@ -1,10 +1,10 @@
-# Zombie Car Game – Unity Technical Test
+# Zombie Car Game – Krafton Technical Test
 
 ## APK Download
-https://drive.google.com/file/d/1yo3_Au7RVeYa3TFY_ZCP6WQ16rIlLKW7/view?usp=sharing
+https://drive.google.com/file/d/1lKx8EYOhXoh0ocJBrh8PuPKfyebbXn9q/view?usp=sharing
 
 ## Gameplay Demo
-https://youtube.com/your-video-link
+https://youtu.be/TotaLV-awM0
 
 ## Unity Version
 Unity 6.3 LTS
@@ -40,16 +40,6 @@ Features
 • Game Over screen
 • Restart functionality
 • Android build support
-
-Controls
-Desktop (Testing)
-Action	Key
-Accelerate	W
-Reverse	S
-Turn Left	A
-Turn Right	D
-Handbrake	Space
-Mobile
 
 The car uses simplified mobile controls suitable for portrait gameplay.
 
